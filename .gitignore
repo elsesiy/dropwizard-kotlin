@@ -1,0 +1,10 @@
+### Meta files ###
+.DS_Store
+Thumbs.db
+
+### Gradle ###
+.gradle
+/build
+
+### Intellij ###
+.idea
