@@ -1,4 +1,4 @@
-FROM openjdk:8-jre
+FROM openjdk:8-jre-alpine
 EXPOSE 8080
 
 COPY sample.yml /app/config.yml
